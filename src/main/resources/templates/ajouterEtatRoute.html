@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Ajouter Etat Anomalie</title>
+</head>
+<body>
+
+<h2>Ajouter Etat Route</h2>
+
+<form th:action="@{/ajouter_route}" th:object="${etatRoute}" method="post">
+    <label for="idsDent">ID Route</label>
+    <input type="text" id="idsDent" name="idsDent" required>
+
+    <label for="niveaux">Niveaux</label>
+    <input type="text" id="niveaux" name="niveaux" required>
+
+    <button type="submit">Ajouter Etat Route</button>
+</form>
+
+</body>
+</html>
