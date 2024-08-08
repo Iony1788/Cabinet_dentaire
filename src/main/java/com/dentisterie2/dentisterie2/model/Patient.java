@@ -11,7 +11,7 @@ import java.util.List;
 
 /**
  *
- * @author TOAVINA
+ * @author Ionisoa
  */
 public class Patient {
     private String nom;

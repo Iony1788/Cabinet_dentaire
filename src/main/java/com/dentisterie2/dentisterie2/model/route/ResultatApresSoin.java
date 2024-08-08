@@ -7,7 +7,7 @@ package com.dentisterie2.dentisterie2.model.route;
 
 /**
  *
- * @author TOAVINA
+ * @author Ionisoa
  */
 
 public class ResultatApresSoin {

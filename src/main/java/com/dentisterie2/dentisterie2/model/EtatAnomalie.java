@@ -14,7 +14,7 @@ import java.util.List;
 
 /**
  *
- * @author TOAVINA
+ * @author Ionisoa
  */
 
 @Entity

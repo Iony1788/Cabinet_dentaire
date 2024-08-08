@@ -6,7 +6,7 @@ package com.dentisterie2.dentisterie2.model;
 
 /**
  *
- * @author TOAVINA
+ * @author Ionisoa
  */
 
 public class ResultatApresSoin {

@@ -15,7 +15,7 @@ import java.util.List;
 
 /**
  *
- * @author TOAVINA
+ * @author Ionisoa
  */
 @Entity
 @Table(name = "etat_route")

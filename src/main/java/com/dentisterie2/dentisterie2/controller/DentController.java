@@ -6,7 +6,7 @@ package com.dentisterie2.dentisterie2.controller;
 
 /**
  *
- * @author TOAVINA
+ * @author Ionisoa
  */
 import com.dentisterie2.dentisterie2.model.Dent;
 import com.dentisterie2.dentisterie2.repository.DentRepository;

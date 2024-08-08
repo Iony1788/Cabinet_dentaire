@@ -10,7 +10,7 @@ import org.springframework.stereotype.Repository;
 
 /**
  *
- * @author TOAVINA
+ * @author Ionisoa
  */
 @Repository
 public interface RouteRepository extends JpaRepository<Route, Long>{

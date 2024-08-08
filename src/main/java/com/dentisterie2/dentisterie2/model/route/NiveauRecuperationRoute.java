@@ -11,7 +11,7 @@ import jakarta.persistence.Id;
 
 /**
  *
- * @author TOAVINA
+ * @author Ionisoa
  */
 @Entity
 public class NiveauRecuperationRoute {

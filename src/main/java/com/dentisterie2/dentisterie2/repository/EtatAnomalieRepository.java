@@ -10,7 +10,7 @@ import org.springframework.stereotype.Repository;
 
 /**
  *
- * @author TOAVINA
+ * @author Ionisoa
  */
 @Repository
 public interface EtatAnomalieRepository extends JpaRepository<EtatAnomalie, Long>{
